@@ -1,0 +1,39 @@
+body {
+    font-family: "Playfair Display", Georgia, serif;
+}
+header{
+    font-size: 25px;
+    text-align: center;
+}
+#intro{
+    font-size: large;
+}
+#about{
+    font-size: large;
+}
+#skills{
+    font-size: large;
+}
+#projects{
+    font-size: large;
+}
+#contact{
+    font-size: large;
+}
+.social{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+a:link,a:visited,a:active{
+    color: black;
+}
+a:hover{
+    color: #8d99ae;
+}
+.email{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
